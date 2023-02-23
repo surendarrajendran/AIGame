@@ -1,0 +1,4 @@
+C:\Users\Ravula tarak\source\repos\FOAI\FOAI\x64\Debug\FOAI.vcxproj.AssemblyReference.cache
+C:\Users\Ravula tarak\source\repos\FOAI\FOAI\x64\Debug\FOAI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Ravula tarak\source\repos\FOAI\FOAI\x64\Debug\FOAI.SelectionPage.resources
+C:\Users\Ravula tarak\source\repos\FOAI\FOAI\x64\Debug\FOAI.vcxproj.GenerateResource.cache
